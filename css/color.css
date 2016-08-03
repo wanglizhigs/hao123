@@ -1,0 +1,138 @@
+/*绿色*/
+.wrap-green nav ul{
+	border-top: solid 2px #099e6a;
+}
+.wrap-green .wrap-content nav ul li a.selected{
+	background: #099e6a;
+	color: #fff;
+}
+.wrap-green .wrap-content nav ul li a.selected:hover{
+	color: #fff;
+}
+.wrap-green .wrap-content nav ul li a:hover{
+	color: #099e6a;
+}
+.wrap-green .wrap-content-right{
+	border: solid 1px #099e6a;
+}
+.wrap-green .wrap-content-left .tab-menu a:hover{
+	color: #099e6a;
+}
+.wrap-green .wrap-content-left .tab-menu .selected{
+	border-top: solid 1px #099e6a;
+	color: #099e6a;
+}
+.wrap-green .last-links .link{
+	color: #099e6a;
+}
+/*黄色*/
+.wrap-yellow nav ul{
+	border-top: solid 2px #EE9A00;
+}
+.wrap-yellow .wrap-content nav ul li a.selected{
+	background: #EE9A00;
+	color: #fff;
+}
+.wrap-yellow .wrap-content nav ul li a.selected:hover{
+	color: #fff;
+}
+.wrap-yellow .wrap-content nav ul li a:hover{
+	color: #EE9A00;
+}
+.wrap-yellow .wrap-content-right{
+	border: solid 1px #EE9A00;
+}
+.wrap-yellow .wrap-content-left .tab-menu a:hover{
+	color: #EE9A00;
+}
+.wrap-yellow .wrap-content-left .tab-menu .selected{
+	border-top: solid 1px #EE9A00;
+	color: #EE9A00;
+}
+.wrap-yellow .last-links .link{
+	color: #EE9A00;
+}
+/*红色*/
+.wrap-red nav ul{
+	border-top: solid 2px #FF3030;
+}
+.wrap-red .wrap-content nav ul li a.selected{
+	background: #FF3030;
+	color: #fff;
+}
+.wrap-red .wrap-content nav ul li a.selected:hover{
+	color: #fff;
+}
+.wrap-red .wrap-content nav ul li a:hover{
+	color: #FF3030;
+}
+.wrap-red .wrap-content-right{
+	border: solid 1px #FF3030;
+}
+.wrap-red .wrap-content-left .tab-menu a:hover{
+	color: #FF3030;
+}
+.wrap-red .wrap-content-left .tab-menu .selected{
+	border-top: solid 1px #FF3030;
+	color: #FF3030;
+}
+.wrap-red .last-links .link{
+	color: #FF3030;
+}
+
+/*蓝色*/
+.wrap-blue nav ul{
+	border-top: solid 2px #1C86EE;
+}
+.wrap-blue .wrap-content nav ul li a.selected{
+	background: #1C86EE;
+	color: #fff;
+}
+.wrap-blue .wrap-content nav ul li a.selected:hover{
+	color: #fff;
+}
+.wrap-blue .wrap-content nav ul li a:hover{
+	color: #1C86EE;
+}
+.wrap-blue .wrap-content-right{
+	border: solid 1px #1C86EE;
+}
+.wrap-blue .wrap-content-left .tab-menu a:hover{
+	color: #1C86EE;
+}
+.wrap-blue .wrap-content-left .tab-menu .selected{
+	border-top: solid 1px #1C86EE;
+	color: #1C86EE;
+}
+.wrap-blue .last-links .link{
+	color: #1C86EE;
+}
+
+/*紫色*/
+.wrap-blueviolet nav ul{
+	border-top: solid 2px #9B30FF;
+}
+.wrap-blueviolet .wrap-content nav ul li a.selected{
+	background: #9B30FF;
+	color: #fff;
+}
+.wrap-blueviolet .wrap-content nav ul li a.selected:hover{
+	color: #fff;
+}
+.wrap-blueviolet .wrap-content nav ul li a:hover{
+	color: #9B30FF;
+}
+.wrap-blueviolet .wrap-content-right{
+	border: solid 1px #9B30FF;
+}
+.wrap-blueviolet .wrap-content-left .tab-menu a:hover{
+	color: #9B30FF;
+}
+.wrap-blueviolet .wrap-content-left .tab-menu .selected{
+	border-top: solid 1px #9B30FF;
+	color: #9B30FF;
+}
+.wrap-blueviolet .last-links .link{
+	color: #9B30FF;
+}
+
